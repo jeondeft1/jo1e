@@ -5,15 +5,15 @@ body{
 }
 
 p {
-	font-size:3px;
-	line-height:3px;
+	font-size:4px;
+	line-height:4px;
 	text-align:justify;
 	-webkit-background-size:cover;
 	background-size:cover;
 	background-repeat: no-repeat;
 	background-position: center;
-	background: url(us.png) no-repeat center/cover;
-	background-attachment: fixed;
+	background: url(new.png) no-repeat center/cover;
+	background-attachment: scroll;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: rgb(225, 225, 255, 0);
 }

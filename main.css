@@ -13,7 +13,7 @@ p {
 	background-repeat: no-repeat;
 	background-position: center;
 	background: url(new.png) no-repeat center/cover;
-	background-attachment: fixed;
+	background-attachment: scroll;
 	background-size:100% 100%
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: rgb(225, 225, 255, 0);
